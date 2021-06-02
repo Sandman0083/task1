@@ -1,0 +1,62 @@
+#secondnav{
+  visibility: hidden;
+}
+#cards{
+  margin-top: 5px;
+}
+
+.engtext{
+  position: absolute;
+width: 378px;
+height: 47px;
+left: 100px;
+top: 300px;
+
+color: white;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 47px;
+}
+
+.engpara{
+  position: absolute;
+width: 327px;
+height: 23px;
+left: 100px;
+top: 409px;
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #FFFFFF;
+}
+
+
+.mainimg{
+  background-image: url(img3.png);
+  height: 440px;
+  background-size: cover;
+}
+
+
+.androidbtn{
+  position: absolute;
+  width: 60px;
+
+  left: 400px;
+  top: 70px;
+
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+}
